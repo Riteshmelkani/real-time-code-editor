@@ -44,7 +44,7 @@ It demonstrates real-time communication, frontend-backend integration, and colla
 
 ## 📂 Project Structure
 
-
+```
 realtime-code-editor/
 │
 ├── public/
@@ -54,7 +54,7 @@ realtime-code-editor/
 ├── package-lock.json
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
